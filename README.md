@@ -1,3 +1,3 @@
 # profile-app-mern
 
-deployed on heroku:https://google-docs-clone-anirban.herokuapp.com
+deployed on heroku:https://mern-first-anirban.herokuapp.com/
